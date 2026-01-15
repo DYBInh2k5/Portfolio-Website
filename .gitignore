@@ -1,0 +1,18 @@
+# Test files
+test.html
+portfolio-simple.html
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependencies (if you add npm later)
+node_modules/
+package-lock.json
